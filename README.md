@@ -1,1 +1,1 @@
-# gameSaper
+Simple, provisional saper game 
